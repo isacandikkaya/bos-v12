@@ -7,8 +7,4 @@
 - Komutları `commands` klasörüne ekleyiniz.
 
 ## Discord
-- [benim adım arda#5021](https://discord.com/users/381536688331030528)
-- [Sunucum](https://discord.com/invite/MK5uAWQUsG)
-
-## Websitem
-- [zekiarda.xyz](https://zekiarda.xyz)
+-unknown

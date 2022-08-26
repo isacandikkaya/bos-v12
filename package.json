@@ -1,7 +1,7 @@
 {
   "name": "discord-v12-bos-altyapi",
   "version": "0.0.1",
-  "description": "zekiarda.xyz",
+  "description": "unknwn",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
